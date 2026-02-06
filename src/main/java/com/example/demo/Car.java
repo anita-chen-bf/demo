@@ -4,4 +4,5 @@ public class Car {
     String name;
     int year;
     int price;
+    String model;
 }
